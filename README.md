@@ -5,4 +5,4 @@ addnode=zen.suprnova.cc
 addnode=zpool.blockoperations.com
 addnode=zen.bitfire.one
 addnode=zenmine.pro
-addnode=minez.zone
+addnode=minez.zones
